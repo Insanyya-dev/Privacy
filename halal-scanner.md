@@ -5,7 +5,7 @@ title: Privacy Policy — My Halal Scanner
 # Privacy Policy — My Halal Scanner
 
 **Last updated:** November 5, 2026  
-**Developer:** Mr Schak  
+**Developer:** Insanyya  
 **Contact:** insanyya.support@gmail.com
 
 This Privacy Policy applies to both versions of the app on Google Play:
@@ -230,7 +230,7 @@ We may update this policy when the app's features or the law change. The "Last u
 
 For any question or request about this policy or your data:
 
-**Developer:** Mr Schak  
+**Developer:** Insanyya  
 **Email:** insanyya.support@gmail.com
 
 We aim to answer every privacy request within 30 days.

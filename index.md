@@ -4,7 +4,7 @@ title: Privacy policies
 
 # Privacy policies
 
-Privacy policies of the apps published by **Mr Schak (Insanyya)** on Google Play.
+Privacy policies of the apps published by **Insanyya** on Google Play.
 
 | App | Policy |
 |---|---|
