@@ -5,7 +5,7 @@ title: Privacy Policy — My Halal Scanner
 # Privacy Policy — My Halal Scanner
 
 **Last updated:** November 5, 2026  
-**Developer:** Insanyya  
+**Developer:** insanyya-dev  
 **Contact:** insanyya.support@gmail.com
 
 This Privacy Policy applies to both versions of the app on Google Play:
@@ -122,8 +122,6 @@ The phone model, device identifiers and your location are **not** sent.
 
 The message goes over an encrypted connection (HTTPS) to a small program we run on **Google Apps Script**, inside our own Google account, which emails it to our support inbox (**Gmail**, insanyya.support@gmail.com). Google therefore processes the message as our email provider. Like any website, Google's servers see the connection's IP address; our program does not receive it and it is never included in the email we read. We use your message only to read it and answer you. We never use it for marketing, never sell it and never share it with anyone else.
 
-App versions released before the "Halal 2.0" update delivered this form through Formspree (a US form service, <https://formspree.io/legal/privacy-policy>). From that update on, Formspree is no longer used.
-
 If you use the "Email us" or "Report an error" options instead, the app simply opens your own email app with our address filled in; your message then reaches us through your own email provider, by your own action.
 
 Contacting us is optional. Every feature of the app works without it.
@@ -216,7 +214,7 @@ Apart from the contact messages you choose to send us, we do not run any server 
 
 ## 9. International transfers
 
-When the app contacts OpenFoodFacts, Google (AdMob, Apps Script, Gmail) or, for older versions, Formspree, your request may be processed on servers outside your country, including in the European Union and the United States. OpenFoodFacts is a French nonprofit with its main servers in the EU. Google operates worldwide and relies on legal transfer mechanisms (such as Standard Contractual Clauses and adequacy decisions).
+When the app contacts OpenFoodFacts, Google (AdMob, Apps Script, Gmail), your request may be processed on servers outside your country, including in the European Union and the United States. OpenFoodFacts is a French nonprofit with its main servers in the EU. Google operates worldwide and relies on legal transfer mechanisms (such as Standard Contractual Clauses and adequacy decisions).
 
 ---
 
@@ -230,7 +228,7 @@ We may update this policy when the app's features or the law change. The "Last u
 
 For any question or request about this policy or your data:
 
-**Developer:** Insanyya  
+**Developer:** insanyya-dev  
 **Email:** insanyya.support@gmail.com
 
 We aim to answer every privacy request within 30 days.
