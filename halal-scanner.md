@@ -4,7 +4,7 @@ title: Privacy Policy — My Halal Scanner
 
 # Privacy Policy — My Halal Scanner
 
-**Last updated:** November 5, 2026  
+**Last updated:** November 19, 2026  
 **Developer:** insanyya-dev  
 **Contact:** insanyya.support@gmail.com
 
@@ -42,12 +42,22 @@ When you scan a product, the app saves to a local database on your device:
 - the result of the check (what was found, what may be present, what was checked);
 - the ingredients that matched your choices (for example "gelatine", "E120");
 - the scan date and time;
-- the product image link (a link to the OpenFoodFacts image, not a copy);
+- the product image link (a link to the OpenFoodFacts image). To show it quickly, the product photo is downloaded from OpenFoodFacts and kept in the app's cache on your device for up to 30 days;
 - the product category and labels (for example a halal mark recorded on OpenFoodFacts).
 
 If you choose to save an ingredient-label scan, the app also keeps the text read from the photo, the name you give it, and the photos you took (see 2.3).
 
 This data **stays on your device**. It is never sent to us. It is used only to show your history in the app and to re-check products against your current choices. You can delete single entries or your whole history at any time from the History screen.
+
+**Home-screen widgets (Premium):** the "Scan" and "Last scan" widgets read your last scan from this same local database. Nothing is sent anywhere.
+
+**My products (Premium):** the products you save, and a copy of their last result, are kept in the same local database. If you turn on the re-check, the app asks OpenFoodFacts again in the background for each saved product (by barcode only, the same request as a scan; on Wi-Fi only unless you allow mobile data) and shows a notification only when a result by your choices has changed. It runs every 7 days unless you choose another interval. You can turn the re-check off or remove a product at any time.
+
+**Export and backup file (Premium):** the app can write your history to a PDF, a spreadsheet or a backup file. The file is made on your phone and saved or shared only where you choose. It is never sent to us.
+
+**Android backup:** if backup is switched on in your phone's settings, Android may copy your scan history and app settings to your own Google account, so they come back on a new phone. We cannot see that copy. You can switch it off in Android Settings → Google → Backup.
+
+**Sharing to the app:** when you share a photo, a text or a link to the app from another app, it is read on your phone. Only a barcode found in it is looked up on OpenFoodFacts.
 
 ### 2.2 Data sent to OpenFoodFacts
 
@@ -71,6 +81,8 @@ The app asks for camera permission to:
 - Photos taken for ingredient scans are kept in the app's private storage (not visible to other apps or in your gallery) until you delete the scan, clear the app's data or uninstall the app.
 - A photo is uploaded to OpenFoodFacts **only** if you choose to contribute that product and confirm it.
 - The app never reads the photos already in your gallery.
+
+Other permissions: **notifications** (Premium: only for My products alerts, and only if you allow them) and **vibration** (Keep scanning: one buzz per result). Neither collects any data.
 
 ### 2.4 Product contributions to OpenFoodFacts (optional)
 
@@ -106,7 +118,9 @@ The Free version shows ads served by **Google AdMob**. To serve them, Google may
 
 This data is collected and processed **by Google, not by us**, under Google's Privacy Policy (<https://policies.google.com/privacy>) and the AdMob partner policies (<https://support.google.com/admob/answer/6128543>).
 
-You can opt out of personalised ads or reset your Advertising ID in Android Settings → Privacy → Ads. In the European Economic Area and the UK, the app asks for your consent before loading ads; you can change your choice at any time with the **Privacy** button on the app's home screen.
+The Free version shows banners, a full-screen ad when you leave a result (at most one every 3 minutes), and a full-screen ad when you open the app (at most once every 4 hours). Ads never appear over the camera.
+
+You can opt out of personalised ads or reset your Advertising ID in Android Settings → Privacy → Ads. In the European Economic Area and the UK, the app asks for your consent before loading ads; you can change your choice at any time with **Privacy settings** in the app's **More** menu.
 
 The **Premium version contains no ads**: Google AdMob is not started and no advertising data is collected.
 
@@ -127,6 +141,10 @@ If you use the "Email us" or "Report an error" options instead, the app simply o
 Contacting us is optional. Every feature of the app works without it.
 
 ---
+
+### 2.8 Crash reports (optional)
+
+If the app crashes, it keeps **one** small text file on your device about the last crash only: the app version, the Android version, the date and the technical error trace. It contains no device identifier, no account and none of your scans or settings. The next time you open the app, it asks whether you want to send it. It is sent **only** if you press Send, through the in-app contact form (see 2.7). Either way, the file is then deleted from your device. Android's own crash statistics on Google Play (Android vitals) work as for any app, under Google's policies.
 
 ## 3. Data we do not collect
 
@@ -166,6 +184,10 @@ ML Kit runs entirely on your device: images and text are not sent to Google for 
 ## 5. Data retention and deletion
 
 **Scan history:** kept on your device until you delete it (swipe an item, or clear all from the History screen).
+
+**Product photo cache:** removed automatically after 30 days, or when you clear the app's cache or data.
+
+**Crash report:** one file at most, on your device; deleted as soon as you answer the question (send or not).
 
 **Settings and photos:** deleted when you clear the app's data (Android Settings → Apps → My Halal Scanner → Storage → Clear data) or uninstall the app.
 
